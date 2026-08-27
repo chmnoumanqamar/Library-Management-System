@@ -1,0 +1,16 @@
+# Library Management System - Requirements
+# This project uses Python 3.x Standard Library exclusively.
+# Zero external 3rd-party dependencies required.
+#
+# Standard modules utilized:
+# - sqlite3 (Relational Database Management)
+# - hashlib (PBKDF2-HMAC Password Hashing)
+# - getpass (Secure Terminal Password Input)
+# - datetime (Circulation Dates & Due Calculations)
+# - decimal (Precise Monetary & Fine Calculations)
+# - csv (Data Analytics & Reporting Exporter)
+# - logging (Comprehensive System & Audit Event Logging)
+# - re (Input & Regex Format Validation)
+# - unittest (Automated Unit & Integration Test Suite)
+#
+# Python >= 3.9 recommended.

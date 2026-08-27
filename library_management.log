@@ -1,0 +1,199 @@
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] New book added: 'Clean Code' [ISBN: 9780132350884] (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Admin 'admin' logged in successfully.
+[2026-08-27 10:15:06] [WARNING] [LibraryManagementSystem] Incorrect password for admin user: admin
+[2026-08-27 10:15:06] [INFO] [LibraryManagementSystem] Member 'MEM-001' (Ali Khan) logged in successfully.
+[2026-08-27 10:15:06] [WARNING] [LibraryManagementSystem] Member MEM-001 (Ali Khan) was BLOCKED.
+[2026-08-27 10:15:07] [WARNING] [LibraryManagementSystem] Blocked member 'MEM-001' attempted to log in.
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Book 0' [ISBN: 9780000000000] (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Book 1' [ISBN: 9780000000001] (ID: 2)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Book 2' [ISBN: 9780000000002] (ID: 3)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Book 3' [ISBN: 9780000000003] (ID: 4)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Book 4' [ISBN: 9780000000004] (ID: 5)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Book 5' [ISBN: 9780000000005] (ID: 6)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book issued: 'Book 0' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book issued: 'Book 1' to Ali Khan [BRW202608270002]
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book issued: 'Book 2' to Ali Khan [BRW202608270003]
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book issued: 'Book 3' to Ali Khan [BRW202608270004]
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book issued: 'Book 4' to Ali Khan [BRW202608270005]
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] New book added: 'Test Book' [ISBN: 9781491950357] (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book issued: 'Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Book ID 1 ('Test Book Updated') updated. Qty: 5, Avail: 4
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:07] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] New book added: 'Renewal Test Book' [ISBN: 9783333333333] (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Book issued: 'Renewal Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Borrowing BRW202608270001 renewed. New due date: 2026-09-24
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Borrowing BRW202608270001 renewed. New due date: 2026-10-08
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] New book added: 'Duplicate Test Book' [ISBN: 9781111111111] (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Book issued: 'Duplicate Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:08] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Report exported to CSV: C:\Users\CH Nouman Qamar\Documents\GitHub\Library management system\data\test_books.csv
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Report exported to CSV: C:\Users\CH Nouman Qamar\Documents\GitHub\Library management system\data\test_members.csv
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Report exported to CSV: C:\Users\CH Nouman Qamar\Documents\GitHub\Library management system\data\test_borrowings.csv
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] New book added: 'Reservation Test Book' [ISBN: 9784444444444] (ID: 1)
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Reservation created: RES202608270001 by member ID 1 for book ID 1
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Reservation RES202608270001 fulfilled.
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:09] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] New book added: 'Return Test Book' [ISBN: 9782222222222] (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Book issued: 'Return Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:10] [WARNING] [LibraryManagementSystem] Fine generated: Rs. 100.00 for member ID 1
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Book returned: Return Test Book (Borrowing: BRW202608270001)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Fine #1 (Rs. 100.0) marked as PAID for member Ali Khan
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:10] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] New book added: 'Clean Code' [ISBN: 9780132350884] (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Admin 'admin' logged in successfully.
+[2026-08-27 10:15:22] [WARNING] [LibraryManagementSystem] Incorrect password for admin user: admin
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Member 'MEM-001' (Ali Khan) logged in successfully.
+[2026-08-27 10:15:22] [WARNING] [LibraryManagementSystem] Member MEM-001 (Ali Khan) was BLOCKED.
+[2026-08-27 10:15:22] [WARNING] [LibraryManagementSystem] Blocked member 'MEM-001' attempted to log in.
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:22] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Book 0' [ISBN: 9780000000000] (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Book 1' [ISBN: 9780000000001] (ID: 2)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Book 2' [ISBN: 9780000000002] (ID: 3)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Book 3' [ISBN: 9780000000003] (ID: 4)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Book 4' [ISBN: 9780000000004] (ID: 5)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Book 5' [ISBN: 9780000000005] (ID: 6)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Book 0' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Book 1' to Ali Khan [BRW202608270002]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Book 2' to Ali Khan [BRW202608270003]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Book 3' to Ali Khan [BRW202608270004]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Book 4' to Ali Khan [BRW202608270005]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Test Book' [ISBN: 9781491950357] (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book ID 1 ('Test Book Updated') updated. Qty: 5, Avail: 4
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] New book added: 'Renewal Test Book' [ISBN: 9783333333333] (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Book issued: 'Renewal Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Borrowing BRW202608270001 renewed. New due date: 2026-09-24
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Borrowing BRW202608270001 renewed. New due date: 2026-10-08
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:23] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] New book added: 'Duplicate Test Book' [ISBN: 9781111111111] (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Book issued: 'Duplicate Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:24] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Report exported to CSV: C:\Users\CH Nouman Qamar\Documents\GitHub\Library management system\data\test_books.csv
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Report exported to CSV: C:\Users\CH Nouman Qamar\Documents\GitHub\Library management system\data\test_members.csv
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Report exported to CSV: C:\Users\CH Nouman Qamar\Documents\GitHub\Library management system\data\test_borrowings.csv
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] New book added: 'Reservation Test Book' [ISBN: 9784444444444] (ID: 1)
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Reservation created: RES202608270001 by member ID 1 for book ID 1
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Reservation RES202608270001 fulfilled.
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:25] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] New book added: 'Return Test Book' [ISBN: 9782222222222] (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Book issued: 'Return Test Book' to Ali Khan [BRW202608270001]
+[2026-08-27 10:15:26] [WARNING] [LibraryManagementSystem] Fine generated: Rs. 100.00 for member ID 1
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Book returned: Return Test Book (Borrowing: BRW202608270001)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Fine #1 (Rs. 100.0) marked as PAID for member Ali Khan
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Author added: Martin Fowler (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Category added: Programming (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] Publisher added: Addison-Wesley (ID: 1)
+[2026-08-27 10:15:26] [INFO] [LibraryManagementSystem] New member registered: MEM-001 (Ali Khan)
+[2026-08-27 10:17:48] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
+[2026-08-27 10:17:48] [INFO] [LibraryManagementSystem] Starting database demo data seeding...
+[2026-08-27 10:17:49] [INFO] [LibraryManagementSystem] Database demo data seeded successfully.
+[2026-08-27 10:18:32] [INFO] [LibraryManagementSystem] === Initializing Library Management System ===
+[2026-08-27 10:18:32] [INFO] [LibraryManagementSystem] Database schema initialized successfully.
